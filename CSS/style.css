@@ -1,0 +1,23 @@
+h1
+{   
+    color:rgb(207, 22, 22); 
+    font-size: 80px;
+}
+body
+{
+    text-align: center;
+    background-image: url(../img/Fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+p
+{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+}
+a
+{
+    color: white;
+}
